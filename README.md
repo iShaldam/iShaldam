@@ -8,7 +8,6 @@
 - I'm a second-year computer science student and an aspiring software developer
 - Started coding out of boredom, turns out I'm pretty into it
 - I work better under pressure, which is why I love hackathons
-- Outside of coding, I'm either playing guitar or crushing it at chess (2140 rating, no big deal 😁)
 - Right now I'm into ML/AI and learning full-stack development, Web3 is next on the list 🫡 
 
 ## Find Me On
