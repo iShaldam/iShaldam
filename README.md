@@ -6,7 +6,6 @@
 
 ## About Me
 - I'm a second-year computer science student and an aspiring software developer
-- Started coding out of boredom, turns out I'm pretty into it
 - I work better under pressure, which is why I love hackathons
 - Right now I'm into ML/AI and learning full-stack development, Web3 is next on the list 🫡 
 
