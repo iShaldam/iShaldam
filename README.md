@@ -2,19 +2,7 @@
 
 # Hi, I'm Adam 😁
 
-second-year CS student at Sheridan. I build small tools for working with coding agents.
-
 </div>
-
-## Pinned
-
-- **[askmux](https://github.com/iShaldam/askmux)**: one ask-the-user skill for every coding agent harness, plus a tested matrix of which question tool works where. `/plugin marketplace add iShaldam/askmux`
-- **[context-line](https://github.com/iShaldam/context-line)**: Claude Code plugin that tells you when a session is getting heavy, then writes the handoff and the prompt to paste into a fresh one.
-
-## Lately
-
-- Reported [cline/cline#14800](https://github.com/cline/cline/issues/14800) after askmux testing turned up a gap in Cline's question tool.
-- Watching each harness weekly so the askmux matrix stays current.
 
 ## Find me
 
